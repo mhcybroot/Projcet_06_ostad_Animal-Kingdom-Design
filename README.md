@@ -1,0 +1,27 @@
+# Projcet_06_ostad_Animal-Kingdom-Design
+
+## About
+A project by Mahmudul Hasan - Diploma in Computer Science, Dhaka Polytechnic.
+
+## Tech Stack & Keywords
+- **Language:** Java
+- **Keywords:** animal | api | authentication | backend | boot | controller | crud | database | design | gradle | hibernate | jpa | jwt | kingdom | maven | microservice | mvc | mysql | oauth | ostad
+
+## Features
+- Modern architecture
+- Production-ready code
+- Clean, maintainable structure
+
+## Getting Started
+```bash
+git clone https://github.com/mhcybroot/Projcet_06_ostad_Animal-Kingdom-Design.git
+cd Projcet_06_ostad_Animal-Kingdom-Design
+```
+
+## Author
+**Mahmudul Hasan** — IT Executive @ SKYLINK INNOVATIONS LTD.  
+📧 eng.mahmudulhasan.bd@gmail.com | 📱 +880 1537-749454  
+🔗 [GitHub](https://github.com/mhcybroot) | [LinkedIn](https://linkedin.com/in/engineermahmudulhasan)
+
+---
+🔍 SEO: animal, api, authentication, backend, boot, controller, crud, database, design, gradle, hibernate, jpa | Updated: 2026-05-18 21:31
